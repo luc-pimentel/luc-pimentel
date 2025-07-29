@@ -80,4 +80,4 @@ I'm always interested in discussing data engineering challenges, cloud architect
 - 🐦 [Twitter](https://x.com/ItsLucP)
 - ✍️ [Medium](https://medium.com/@luc-pimentel)
 - 📧 [Email](mailto:lucas_cpimentel@proton.me)
-- 🌍 Based in Brasília, Brazil
+- 🌍 Based in Brazil
