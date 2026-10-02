@@ -8,3 +8,10 @@ Data & backend engineer based in Brazil. I build data pipelines, the APIs around
 - **[api_crawler](https://github.com/luc-pimentel/api_crawler)**: one interface over 11 data sources (Reddit, YouTube, GitHub, Indeed, Glassdoor and more) that saves raw JSON into your own data lake.
 - **[api-to-pydantic](https://github.com/luc-pimentel/api-to-pydantic)**: a Claude agent that turns a JSON response, API URL or curl command into typed Pydantic models.
 - **[http-server-csharp](https://github.com/luc-pimentel/http-server-csharp)** and **[Network-Stream-Proxy](https://github.com/luc-pimentel/Network-Stream-Proxy)**: an HTTP/1.1 server and an async HTTP proxy in C#, built on raw TCP.
+
+**Open source**
+
+Contributions to the open-source data stack I use every day.
+
+- **[dbt](https://github.com/dbt-labs/dbt)**: [issues and PRs](https://github.com/dbt-labs/dbt/issues?q=author%3Aluc-pimentel) on the v2 engine. One reported bug was fixed by the maintainers within a week.
+- **[Apache Airflow](https://github.com/apache/airflow)**: [issues and PRs](https://github.com/apache/airflow/issues?q=author%3Aluc-pimentel).
