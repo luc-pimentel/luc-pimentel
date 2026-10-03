@@ -13,5 +13,4 @@ Data & backend engineer based in Brazil. I build data pipelines, the APIs around
 
 Contributions to the open-source data stack I use every day.
 
-- **[dbt](https://github.com/dbt-labs/dbt)**: [issues and PRs](https://github.com/dbt-labs/dbt/issues?q=author%3Aluc-pimentel).
 - **[Apache Airflow](https://github.com/apache/airflow)**: [issues and PRs](https://github.com/apache/airflow/issues?q=author%3Aluc-pimentel).
