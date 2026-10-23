@@ -1,6 +1,6 @@
 ### Lucas Pimentel
 
-Data & backend engineer based in Brazil. I build data pipelines, the APIs around them, and the occasional scraper.
+Data engineer based in Brazil. Pipelines, the APIs around them, and the scrapers that get the data in the first place.
 
 **Open source**
 
