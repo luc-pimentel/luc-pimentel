@@ -7,7 +7,7 @@ Data engineer based in Brazil. Pipelines, the APIs around them, and the scrapers
 Contributions to the open-source data stack I use every day.
 
 - **[Apache Airflow](https://github.com/apache/airflow)**: [merged PRs](https://github.com/apache/airflow/pulls?q=is%3Apr+author%3Aluc-pimentel+is%3Amerged) on Dag run timeouts and scheduling docs, and [bug reports](https://github.com/apache/airflow/issues?q=is%3Aissue+author%3Aluc-pimentel) on the scheduler and task state.
-- **[dbt](https://github.com/dbt-labs/dbt)**: a fix landed on main as [`1abe5d4`](https://github.com/dbt-labs/dbt/commit/1abe5d4568), plus [bug reports](https://github.com/dbt-labs/dbt/issues?q=is%3Aissue+author%3Aluc-pimentel).
+- **[dbt](https://github.com/dbt-labs/dbt)**: [fixes on main](https://github.com/search?q=repo%3Adbt-labs%2Fdbt+luc-pimentel&type=commits), plus [bug reports](https://github.com/dbt-labs/dbt/issues?q=is%3Aissue+author%3Aluc-pimentel).
 
 **Some things I've built**
 
